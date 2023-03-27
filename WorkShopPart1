@@ -20,3 +20,5 @@ docker container run -it alpine /bin/ash
 docker container run alpine ls
 docker container start <container ID>
 docker container exec <container ID> ls
+
+Edited for the commit example
